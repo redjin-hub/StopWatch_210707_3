@@ -1,4 +1,4 @@
-package com.redjin.stopwatch_210707_3
+package com.redjin.stopwatch
 
 import org.junit.Test
 

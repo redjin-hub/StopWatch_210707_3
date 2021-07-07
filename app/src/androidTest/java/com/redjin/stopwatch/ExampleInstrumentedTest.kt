@@ -1,4 +1,4 @@
-package com.redjin.stopwatch_210707_3
+package com.redjin.stopwatch
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

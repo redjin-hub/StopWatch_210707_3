@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.redjin.stopwatch_210707_3"
+        applicationId "com.redjin.stopwatch"
         minSdkVersion 16
         multiDexEnabled true //minSdkNersion이 20 이하 일 경우 추가
         targetSdkVersion 30
